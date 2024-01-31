@@ -1,0 +1,6 @@
+MyServer
+
+port: 333  ,client: 0 ,active: no
+
+----------------------------
+

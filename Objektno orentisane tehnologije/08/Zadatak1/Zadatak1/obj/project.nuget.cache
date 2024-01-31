@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kJNAj5Ft6eAg8RcURsv0NsHoPL4IxSNTic8qQ0MJCawmJpnbd6SMKent60/iIL1WtvyDdy7mF2a1tOQHWV088Q==",
+  "success": true,
+  "projectFilePath": "\\\\nastava\\Nastavni Materijali\\OOT\\Termin 4\\Zadatak1\\Zadatak1\\Zadatak1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Olivera.hrnjakovic\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Olivera.hrnjakovic\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Olivera.hrnjakovic\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Olivera.hrnjakovic\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

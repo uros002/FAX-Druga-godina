@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\FAX 2GOD\Objektno orentisane tehnologije\PripremaZaKolokvijum1\Vezbe4\Priprema2\obj\Debug\Priprema2.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\FAX 2GOD\Objektno orentisane tehnologije\PripremaZaKolokvijum1\Vezbe4\Priprema2\obj\Debug\Priprema2.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\FAX 2GOD\Objektno orentisane tehnologije\PripremaZaKolokvijum1\Vezbe4\Priprema2\bin\Debug\Priprema2.exe.config
+C:\Users\User\OneDrive\Desktop\FAX 2GOD\Objektno orentisane tehnologije\PripremaZaKolokvijum1\Vezbe4\Priprema2\bin\Debug\Priprema2.exe
+C:\Users\User\OneDrive\Desktop\FAX 2GOD\Objektno orentisane tehnologije\PripremaZaKolokvijum1\Vezbe4\Priprema2\bin\Debug\Priprema2.pdb
+C:\Users\User\OneDrive\Desktop\FAX 2GOD\Objektno orentisane tehnologije\PripremaZaKolokvijum1\Vezbe4\Priprema2\obj\Debug\Priprema2.exe
+C:\Users\User\OneDrive\Desktop\FAX 2GOD\Objektno orentisane tehnologije\PripremaZaKolokvijum1\Vezbe4\Priprema2\obj\Debug\Priprema2.pdb

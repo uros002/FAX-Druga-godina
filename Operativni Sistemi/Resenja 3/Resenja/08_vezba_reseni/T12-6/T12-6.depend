@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1617179743 source:/home/sveta/Documents/OS/06/Zadaci-rad-2/T12-6/main.cpp
+	<iostream>
+	"antonim.h"
+	"niti.h"
+
+1617197074 /home/sveta/Documents/OS/06/Zadaci-rad-2/T12-6/antonim.h
+	<map>
+	<string>
+
+1617197844 /home/sveta/Documents/OS/06/Zadaci-rad-2/T12-6/niti.h
+	<thread>
+	<map>
+

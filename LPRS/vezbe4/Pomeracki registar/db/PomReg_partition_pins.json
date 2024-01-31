@@ -1,0 +1,85 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "oSHREG[0]",
+					"strict" : false
+				},
+				{
+					"name" : "oSHREG[1]",
+					"strict" : false
+				},
+				{
+					"name" : "oSHREG[2]",
+					"strict" : false
+				},
+				{
+					"name" : "oSHREG[3]",
+					"strict" : false
+				},
+				{
+					"name" : "oSHREG[4]",
+					"strict" : false
+				},
+				{
+					"name" : "oSHREG[5]",
+					"strict" : false
+				},
+				{
+					"name" : "oSHREG[6]",
+					"strict" : false
+				},
+				{
+					"name" : "oSHREG[7]",
+					"strict" : false
+				},
+				{
+					"name" : "iDATA[0]",
+					"strict" : false
+				},
+				{
+					"name" : "iCLK",
+					"strict" : false
+				},
+				{
+					"name" : "iRST",
+					"strict" : false
+				},
+				{
+					"name" : "iLOAD",
+					"strict" : false
+				},
+				{
+					"name" : "iDATA[1]",
+					"strict" : false
+				},
+				{
+					"name" : "iDATA[2]",
+					"strict" : false
+				},
+				{
+					"name" : "iDATA[3]",
+					"strict" : false
+				},
+				{
+					"name" : "iDATA[4]",
+					"strict" : false
+				},
+				{
+					"name" : "iDATA[5]",
+					"strict" : false
+				},
+				{
+					"name" : "iDATA[6]",
+					"strict" : false
+				},
+				{
+					"name" : "iDATA[7]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

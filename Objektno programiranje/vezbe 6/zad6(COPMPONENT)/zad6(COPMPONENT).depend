@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1669724842 source:c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 6\zad6(copmponent)\dinstring.cpp
+	"dinstring.hpp"
+
+1669724842 c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 6\zad6(copmponent)\dinstring.hpp
+	<iostream>
+
+1669824860 source:c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 6\zad6(copmponent)\main.cpp
+	"CheckBox.hpp"
+	"label.hpp"
+	"panel.hpp"
+
+1669971642 c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 6\zad6(copmponent)\checkbox.hpp
+	"component.hpp"
+
+1669905628 c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 6\zad6(copmponent)\component.hpp
+	"dinstring.hpp"
+
+1669971661 c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 6\zad6(copmponent)\label.hpp
+	"component.hpp"
+
+1669971627 c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 6\zad6(copmponent)\panel.hpp
+	"component.hpp"
+	"list.hpp"
+
+1669725416 c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 6\zad6(copmponent)\list.hpp
+	<stdlib.h>
+	<iostream>
+

@@ -1,0 +1,12 @@
+using Pkg
+Pkg.add("PlotlyJS")
+Pkg.add("ORCA")
+Pkg.add("Statistics")
+Pkg.add("GLM")
+Pkg.add("StatsModels")
+Pkg.add("DataFrames")
+Pkg.add("CSV")
+Pkg.add("Plots")
+Pkg.add("MLBase")
+Pkg.add("StatsBase")
+Pkg.add("StatsPlots")   

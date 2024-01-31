@@ -1,0 +1,95 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/User/OneDrive/Desktop/FAX 2GOD/LPRS/priprema za test/zad2/simulation/modelsim
+Ezad2
+Z1 w1670689717
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z4 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z5 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z6 8C:/Users/User/OneDrive/Desktop/FAX 2GOD/LPRS/priprema za test/zad2/zad2.vhdl
+Z7 FC:/Users/User/OneDrive/Desktop/FAX 2GOD/LPRS/priprema za test/zad2/zad2.vhdl
+l0
+L5
+VKSJnJJe]lAQi[MH^8M^1;0
+!s100 K:lfDN8]l?U4PdKoQ_hl71
+Z8 OV;C;10.5b;63
+31
+Z9 !s110 1670689822
+!i10b 1
+Z10 !s108 1670689822.000000
+Z11 !s90 -reportprogress|300|-93|-work|work|C:/Users/User/OneDrive/Desktop/FAX 2GOD/LPRS/priprema za test/zad2/zad2.vhdl|
+Z12 !s107 C:/Users/User/OneDrive/Desktop/FAX 2GOD/LPRS/priprema za test/zad2/zad2.vhdl|
+!i113 1
+Z13 o-93 -work work
+Z14 tExplicit 1 CvgOpt 0
+Abehavior
+R2
+R3
+R4
+R5
+Z15 DEx4 work 4 zad2 0 22 KSJnJJe]lAQi[MH^8M^1;0
+l25
+L18
+V5X3OLen_KUQQ[8Lmjz9FL2
+!s100 8SZ2b57j]bff01GWg7nm@1
+R8
+31
+R9
+!i10b 1
+R10
+R11
+R12
+!i113 1
+R13
+R14
+Ezad2_tb
+Z16 w1670688956
+R4
+R5
+R0
+Z17 8C:/Users/User/OneDrive/Desktop/FAX 2GOD/LPRS/priprema za test/zad2/zad2_tb.vhdl
+Z18 FC:/Users/User/OneDrive/Desktop/FAX 2GOD/LPRS/priprema za test/zad2/zad2_tb.vhdl
+l0
+L6
+V7ToKn=G:aUF:O?m]?R]HU2
+!s100 Z3l]0Y6MkS5F]RF`ndLle3
+R8
+31
+R9
+!i10b 1
+R10
+Z19 !s90 -reportprogress|300|-93|-work|work|C:/Users/User/OneDrive/Desktop/FAX 2GOD/LPRS/priprema za test/zad2/zad2_tb.vhdl|
+Z20 !s107 C:/Users/User/OneDrive/Desktop/FAX 2GOD/LPRS/priprema za test/zad2/zad2_tb.vhdl|
+!i113 1
+R13
+R14
+Aarch
+R2
+R3
+R15
+R4
+R5
+DEx4 work 7 zad2_tb 0 22 7ToKn=G:aUF:O?m]?R]HU2
+l24
+L10
+V<XX^TQg9T:S2IgPGC=iZI3
+!s100 `7^H?E_N0KNAh4cABg8M70
+R8
+31
+R9
+!i10b 1
+R10
+R19
+R20
+!i113 1
+R13
+R14

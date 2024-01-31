@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1617195970 source:/home/sveta/Documents/OS/06/Zadaci-rad-2/T12-9/main.cpp
+	<iostream>
+	"obracun.h"
+	"niti.h"
+
+1617198513 /home/sveta/Documents/OS/06/Zadaci-rad-2/T12-9/obracun.h
+	<string>
+	<map>
+	<list>
+
+1617198466 /home/sveta/Documents/OS/06/Zadaci-rad-2/T12-9/niti.h
+	<thread>
+

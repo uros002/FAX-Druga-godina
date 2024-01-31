@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1666627600 source:c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 2\zadatak2 (rerna)\rerna.cpp
+	"rerna.hpp"
+
+1666627824 c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 2\zadatak2 (rerna)\rerna.hpp
+
+1666627562 source:c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 2\zadatak2 (rerna)\main.cpp
+	<iostream>
+	"rerna.cpp"
+
+1666627600 c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 2\zadatak2 (rerna)\rerna.cpp
+	"rerna.hpp"
+

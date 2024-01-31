@@ -1,0 +1,129 @@
+
+/*
+// Equivalent C code:
+const short N = 10;
+short d[10] = {3, 5, 20, 27, 20, 15, 30, 16, 3, 5};
+short a[10] = {9, 1, 6, 6, 31, 32, 16, 0, 3, 19};
+short c[10];
+short b[10];
+void main() {
+	short* pa;
+	short* pb;
+	short* pc;
+	short* pd;
+	short* pae;
+	short* pbe;
+	short* pce;
+	short* pde;
+	short e;
+	short tmp1
+	short tmp2
+	for(
+		pd = d+N-1, pa = a, pc = c+N-1, pde = d-1;
+		pd != pde;
+		pd--, pa++, pc--
+	){
+		//*pc = *pd | *pa;
+		tmp1 = *pd;
+		tmp2 = *pa
+		tmp1 = tmp1 | tmp2
+		*pc = *tmp1
+	}
+	for(
+		pc = c+N-1, e = 0, pce = c-1;
+		pc != pce;
+		pc--
+	){
+		tmp1 = *pc
+		e += tmp1;
+	}
+}
+
+	
+*/
+
+.data
+//TODO
+10
+3, 5, 20, 27, 20, 15, 30, 16, 3, 5
+9, 1, 6, 6, 31, 32, 16, 0, 3, 19
+
+.text
+/*
+	R0 - short* pd pokazivac niza d
+	R1 - short* pa pokazivac niza a
+	R2 - short* pc pokazivac na novog elementa c
+	R3 - N
+	R4 - pde, posle pce
+	R5 - tmp1
+	R6 - tmp2
+	R7 - pce, posle e
+*/
+main:
+//TODO
+
+	ld R3,R0			// R3 = N = 10
+	inc R0,R0		// R0 je pokazivac niza d -> pd
+	add R1,R0,R3	// R1 je pokazivac niza a -> pa
+	add R2,R1,R3	// R2 je pokazivac niza c ->pc
+	ld R4,R1		
+	dec R4,R4		// R4 je pokazivac na kraj niza d -> pde
+	add R7,R4,R3	// R7 je pokazivac na kraj niza c -> pce
+	
+first_for_init:
+	add R0,R0,R3	//R0 = pd = d + N
+	dec R0,R0		// R= = pd = d + N - 1
+	
+	ld R1,R1			// pa = a NEOBAVEZNO
+	
+	add R2,R2,R3	//R2 = pc = c + N
+	dec R2,R2		//R2 = pc = c + N - 1
+	
+	ld R4,R0			//R4 = pde = d
+	dec R4,R4		// R4 = pde = d - 1
+	
+first_for_test:
+	sub R6,R0,R4 
+	jmpz first_for_end
+	
+first_for_body:
+	ld R5,R0			//R5 = tmp1 = *pd
+	ld R6,R1			//R6 = tmp2 = *pa
+	or R5,R5,R6		//R5 = tmp1 = tmp1 | tmp2
+	st R5,R2			// R2 = *pc = *tmp1
+	
+first_for_inc:
+	dec R0,R0		// R0 = pd--
+	inc R1,R1		// R1 = pa++
+	dec R2,R2		// R2 = pc--
+	jmp first_for_test
+	
+first_for_end:
+	ld R4,R7			//prebacivanje R7 u R4
+
+second_for_init:
+	add R2,R2,R3	//R2 = pc = c + N
+	dec R2,R2		//R2 = pc = c + N - 1
+	
+	sub R7,R7,R7	// R7 = e = 0
+	
+	ld R4,R2			// R4 = pce = c
+	dec R4,R4		// R4 = pce = c - 1
+
+second_for_test:
+	sub R6,R2,R4	
+	jmpz second_for_end
+
+second_for_body:
+	ld R5,R2			// R5 = tmp1 = *pc
+	add R7,R7,R5	// R7 = e = e + tmp1	
+
+second_for_inc:
+	dec R2,R2		// R2 = pc--
+	jmp second_for_test
+
+second_for_end:
+
+
+end:
+	jmp end

@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1667478367 source:c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 3\3njihov\main.cpp
+	<iostream>
+	"screen.hpp"
+	"monitor.hpp"
+
+1667478420 c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 3\3njihov\screen.hpp
+
+1667478454 c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 3\3njihov\monitor.hpp
+	"screen.hpp"
+

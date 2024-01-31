@@ -1,0 +1,9 @@
+Restoran: Masinac
+Adresa: Trg Dositeja Obradovica 6
+
+Jelovnik
+**********
+Belo meso 200
+Cevapi 170
+Pljeskavica 150
+**********

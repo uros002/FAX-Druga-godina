@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1617195824 source:/home/sveta/Documents/OS/06/Zadaci-rad-2/T12-8/main.cpp
+	<iostream>
+	"cenovnik.h"
+	"niti.h"
+
+1617194988 /home/sveta/Documents/OS/06/Zadaci-rad-2/T12-8/cenovnik.h
+	<string>
+	<map>
+
+1617198158 /home/sveta/Documents/OS/06/Zadaci-rad-2/T12-8/niti.h
+	<thread>
+

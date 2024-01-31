@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1669724842 source:c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 6\zad8(karta)\dinstring.cpp
+	"dinstring.hpp"
+
+1669724842 c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 6\zad8(karta)\dinstring.hpp
+	<iostream>
+
+1670172382 source:c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 6\zad8(karta)\main.cpp
+	<iostream>
+	"zicara.hpp"
+	"putnikDete.hpp"
+
+1670172199 c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 6\zad8(karta)\zicara.hpp
+	"list.hpp"
+	"putnik.hpp"
+
+1669725416 c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 6\zad8(karta)\list.hpp
+	<stdlib.h>
+	<iostream>
+
+1670172474 c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 6\zad8(karta)\putnik.hpp
+	"dinstring.hpp"
+	"karta.hpp"
+
+1670172135 c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 6\zad8(karta)\karta.hpp
+
+1670074016 c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 6\zad8(karta)\putnikdete.hpp
+	"putnik.hpp"
+

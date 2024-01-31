@@ -1,0 +1,59 @@
+# Reading C:/intelFPGA_lite/18.0/modelsim_ase/tcl/vsim/pref.tcl
+# do MySecondDigitalSystem_run_msim_rtl_vhdl.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/18.0/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vcom -93 -work work {C:/Users/User/OneDrive/Desktop/FAX 2GOD/LPRS/vezbe2/MySecondDigitalSystem/MySecondDigitalSystem.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 14:08:57 on Nov 01,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/User/OneDrive/Desktop/FAX 2GOD/LPRS/vezbe2/MySecondDigitalSystem/MySecondDigitalSystem.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity MySecondDigitalSystem
+# -- Compiling architecture MS of MySecondDigitalSystem
+# End time: 14:08:57 on Nov 01,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vcom -93 -work work {C:/Users/User/OneDrive/Desktop/FAX 2GOD/LPRS/vezbe2/MySecondDigitalSystem/simulation/modelsim/MySecondDigitalSystem_tb.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 14:08:57 on Nov 01,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/User/OneDrive/Desktop/FAX 2GOD/LPRS/vezbe2/MySecondDigitalSystem/simulation/modelsim/MySecondDigitalSystem_tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity MySecondDigitalSystem_tb
+# -- Compiling architecture Test of MySecondDigitalSystem_tb
+# End time: 14:08:57 on Nov 01,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L fiftyfivenm -L rtl_work -L work -voptargs="+acc"  MySecondDigitalSystem_tb
+# vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L fiftyfivenm -L rtl_work -L work -voptargs=""+acc"" MySecondDigitalSystem_tb 
+# Start time: 14:08:58 on Nov 01,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.myseconddigitalsystem_tb(test)
+# Loading work.myseconddigitalsystem(ms)
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+add wave -position end  sim:/myseconddigitalsystem_tb/uut/sS1
+add wave -position end  sim:/myseconddigitalsystem_tb/uut/sS2
+add wave -position end  sim:/myseconddigitalsystem_tb/uut/sS3
+add wave -position end  sim:/myseconddigitalsystem_tb/uut/sS4
+restart
+run
+# End time: 14:41:06 on Nov 01,2022, Elapsed time: 0:32:08
+# Errors: 0, Warnings: 0

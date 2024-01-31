@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1669724842 source:c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 6\zad5(test)\dinstring.cpp
+	"dinstring.hpp"
+
+1669724842 c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 6\zad5(test)\dinstring.hpp
+	<iostream>
+
+1669816402 source:c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 6\zad5(test)\main.cpp
+	<iostream>
+	"predmet.hpp"
+	"student.hpp"
+	<ctime>
+
+1669816328 c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 6\zad5(test)\test.hpp
+	<iostream>
+	"dinstring.hpp"
+
+1669812459 c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 6\zad5(test)\kolokvijum.hpp
+	<cstdlib>
+	"test.hpp"
+
+1669816117 c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 6\zad5(test)\predmet.hpp
+	"list.hpp"
+	"kolokvijum.hpp"
+
+1669725416 c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 6\zad5(test)\list.hpp
+	<stdlib.h>
+	<iostream>
+
+1669816188 c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 6\zad5(test)\student.hpp
+	"predmet.hpp"
+

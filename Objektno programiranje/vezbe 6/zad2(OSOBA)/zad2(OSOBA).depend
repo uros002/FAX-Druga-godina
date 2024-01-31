@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1669724842 source:c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 6\zad2(osoba)\dinstring.cpp
+	"dinstring.hpp"
+
+1669724842 c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 6\zad2(osoba)\dinstring.hpp
+	<iostream>
+

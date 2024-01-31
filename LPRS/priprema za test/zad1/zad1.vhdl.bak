@@ -1,0 +1,25 @@
+library ieee;
+use ieee.std_logic_1164.all
+
+entity zad1 is 
+	port(
+	iA : in std_logic_vector(3 downto 0);
+	iB : in std_logic_vector(1 downto 0);
+	iC : in std_logic_vector(3 downto 0);
+	iSEL : in std_logic_vector(2 downto 0);s
+	iMSEL : in std_logic_vector(3 downto 0)
+	);
+end entity;
+
+architecture Behavior of zad1 is
+	signal iA : std_logic_vector(3 downto 0);
+	signal iB : std_logic_vector(1 downto 0);
+	signal iC : std_logic_vector(3 downto 0);
+	signal iSEL : std_logic_vector(2 downto 0);
+	signal iMSEL : std_logic_vector(3 downto 0):="0101";
+
+begin
+
+
+end architecture;
+

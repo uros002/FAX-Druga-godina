@@ -1,0 +1,21 @@
+MyServer
+
+port: 333  ,client: 5 ,active: yes
+
+----------------------------
+
+DummyClient: 1 PrviDC
+
+
+DummyClient: 2 DrugiDC
+
+
+DummyClient: 3 TreciDC
+
+
+MessageClient: Prvi Message
+
+
+MessageClient: Drugi Message
+
+

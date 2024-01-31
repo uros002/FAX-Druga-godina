@@ -1,0 +1,8 @@
+
+State Machine - |FSM_game|s_state
+Name s_state.BWIN s_state.AWIN s_state.BLEAD s_state.ALEAD s_state.DRAW 
+s_state.DRAW 0 0 0 0 0 
+s_state.ALEAD 0 0 0 1 1 
+s_state.BLEAD 0 0 1 0 1 
+s_state.AWIN 0 1 0 0 1 
+s_state.BWIN 1 0 0 0 1 

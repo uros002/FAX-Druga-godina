@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1617183313 source:/home/sveta/Documents/OS/06/Zadaci-rad-2/T12-1/main.cpp
+	<iostream>
+	"sabiranje.h"
+	"niti.h"
+
+1617182958 /home/sveta/Documents/OS/06/Zadaci-rad-2/T12-1/sabiranje.h
+	<vector>
+
+1617184262 /home/sveta/Documents/OS/06/Zadaci-rad-2/T12-1/niti.h
+	<thread>
+	<vector>
+

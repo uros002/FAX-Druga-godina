@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\FAX 2GOD\Objektno orentisane tehnologije\PripremaZaKolokvijum1\Vezbe4\Zadatak04\obj\Debug\Zadatak04.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\FAX 2GOD\Objektno orentisane tehnologije\PripremaZaKolokvijum1\Vezbe4\Zadatak04\obj\Debug\Zadatak04.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\FAX 2GOD\Objektno orentisane tehnologije\PripremaZaKolokvijum1\Vezbe4\Zadatak04\bin\Debug\Zadatak04.exe.config
+C:\Users\User\OneDrive\Desktop\FAX 2GOD\Objektno orentisane tehnologije\PripremaZaKolokvijum1\Vezbe4\Zadatak04\bin\Debug\Zadatak04.exe
+C:\Users\User\OneDrive\Desktop\FAX 2GOD\Objektno orentisane tehnologije\PripremaZaKolokvijum1\Vezbe4\Zadatak04\bin\Debug\Zadatak04.pdb
+C:\Users\User\OneDrive\Desktop\FAX 2GOD\Objektno orentisane tehnologije\PripremaZaKolokvijum1\Vezbe4\Zadatak04\obj\Debug\Zadatak04.exe
+C:\Users\User\OneDrive\Desktop\FAX 2GOD\Objektno orentisane tehnologije\PripremaZaKolokvijum1\Vezbe4\Zadatak04\obj\Debug\Zadatak04.pdb

@@ -1,0 +1,68 @@
+# Reading C:/intelFPGA_lite/18.0/modelsim_ase/tcl/vsim/pref.tcl
+# do MyFirstDigitalSystem_run_msim_rtl_vhdl.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim - Intel FPGA Edition vmap 10.5b Lib Mapping Utility 2016.10 Oct  5 2016
+# vmap work rtl_work 
+# Copying C:/intelFPGA_lite/18.0/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# 
+# vcom -93 -work work {C:/Users/User/OneDrive/Desktop/FAX 2GOD/LPRS/vezbe2/MyFirstDigitalSystem/MyFirstDigitalSystem.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:27:37 on Nov 01,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/User/OneDrive/Desktop/FAX 2GOD/LPRS/vezbe2/MyFirstDigitalSystem/MyFirstDigitalSystem.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity MyFirstDigitalSystem
+# -- Compiling architecture MS of MyFIrstDigitalSystem
+# End time: 13:27:37 on Nov 01,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vcom -93 -work work {C:/Users/User/OneDrive/Desktop/FAX 2GOD/LPRS/vezbe2/MyFirstDigitalSystem/simulation/modelsim/MyFirstDigitalSystem_tb.vhd}
+# Model Technology ModelSim - Intel FPGA Edition vcom 10.5b Compiler 2016.10 Oct  5 2016
+# Start time: 13:27:37 on Nov 01,2022
+# vcom -reportprogress 300 -93 -work work C:/Users/User/OneDrive/Desktop/FAX 2GOD/LPRS/vezbe2/MyFirstDigitalSystem/simulation/modelsim/MyFirstDigitalSystem_tb.vhd 
+# -- Loading package STANDARD
+# -- Loading package TEXTIO
+# -- Loading package std_logic_1164
+# -- Compiling entity MyFirstDigitalSystem_tb
+# -- Compiling architecture Test of MyFirstDigitalSystem_tb
+# End time: 13:27:37 on Nov 01,2022, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 0
+# 
+# vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L fiftyfivenm -L rtl_work -L work -voptargs="+acc"  MyFirstDigitalSystem_tb
+# vsim -t 1ps -L altera -L lpm -L sgate -L altera_mf -L altera_lnsim -L fiftyfivenm -L rtl_work -L work -voptargs=""+acc"" MyFirstDigitalSystem_tb 
+# Start time: 13:27:39 on Nov 01,2022
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.myfirstdigitalsystem_tb(test)
+# Loading work.myfirstdigitalsystem(ms)
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run -all
+add wave -position insertpoint  \
+sim:/myfirstdigitalsystem_tb/uut/sS
+run
+run
+run -all
+run -all
+run
+restart
+add wave -position end  sim:/myfirstdigitalsystem_tb/uut/sS
+restart
+run
+restart
+run
+restart
+run
+# End time: 13:38:45 on Nov 01,2022, Elapsed time: 0:11:06
+# Errors: 0, Warnings: 0

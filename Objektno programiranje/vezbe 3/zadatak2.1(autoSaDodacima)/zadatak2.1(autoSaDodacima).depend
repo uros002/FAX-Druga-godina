@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1667410197 source:c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 3\zadatak2.1(autosadodacima)\main.cpp
+	<iostream>
+	"automobil.hpp"
+
+1667409730 c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 3\zadatak2.1(autosadodacima)\automobil.hpp
+	"menjac.hpp"
+	"skoljka.hpp"
+
+1667408742 c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 3\zadatak2.1(autosadodacima)\menjac.hpp
+
+1667408741 c:\users\user\onedrive\desktop\fax 2god\objektno programiranje\vezbe 3\zadatak2.1(autosadodacima)\skoljka.hpp
+

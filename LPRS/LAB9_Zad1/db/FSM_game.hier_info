@@ -1,0 +1,15 @@
+|FSM_game
+iRST => s_state~3.DATAIN
+iCLK => s_state~1.DATAIN
+iA[0] => Equal1.IN3
+iA[0] => Equal3.IN3
+iA[1] => Equal1.IN2
+iA[1] => Equal3.IN2
+iB[0] => Equal0.IN3
+iB[0] => Equal2.IN3
+iB[1] => Equal0.IN2
+iB[1] => Equal2.IN2
+oA << oA.DB_MAX_OUTPUT_PORT_TYPE
+oB << comb.DB_MAX_OUTPUT_PORT_TYPE
+
+
